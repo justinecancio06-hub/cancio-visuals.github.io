@@ -1,0 +1,38 @@
+embedding
+
+img 
+<embed type="image/jpg"src="sample.jpg" width = "300" height = "200"
+
+html
+<embed type="text/html"src="hahaha.html" width = "300" height = "200"
+
+video/audio
+<embed type="video/webml"src="sarap.mp4" width = "400" height = "300"
+
+
+AUDIO
+use the <audio></audio>tag
+Allows playing audio files in the background
+CAn be played automatically using the Autoplay attribute
+
+<audio controls autoplay>
+<source src="hahaha.mp3" type="audio/mp3">
+</audio>
+
+Auto attributes
+
+control - attribute adds audio controls
+
+<source> - allows you to specify alternative audio files which the browser may chose from
+
+HTML (video)
+
+<video></video> tag
+
+audio sample
+
+<video width="1920" height="1080" controls>
+<source src="sample.mp4" type="video/mp4">
+</video>
+
+
